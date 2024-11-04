@@ -1,0 +1,2 @@
+# RecorderPeoplesGraph
+ The Politician and Organization Relationship Analyzer is a Python-based project that utilizes Natural Language Processing (NLP) and graph theory to analyze and visualize relationships between politicians and various organizations. The tool scrapes data from online sources, extracts entities from the collected text, identifies direct and indirect relationships, and visualizes these connections in a clear and informative manner.
